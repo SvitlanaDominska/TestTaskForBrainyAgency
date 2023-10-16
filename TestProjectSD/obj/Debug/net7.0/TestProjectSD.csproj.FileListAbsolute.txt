@@ -1,0 +1,86 @@
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\bin\Debug\net7.0\appsettings.json
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\bin\Debug\net7.0\TestProjectSD.exe
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\bin\Debug\net7.0\TestProjectSD.deps.json
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\bin\Debug\net7.0\TestProjectSD.runtimeconfig.json
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\bin\Debug\net7.0\TestProjectSD.dll
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\bin\Debug\net7.0\TestProjectSD.pdb
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\obj\Debug\net7.0\TestProjectSD.csproj.AssemblyReference.cache
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\obj\Debug\net7.0\TestProjectSD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\obj\Debug\net7.0\TestProjectSD.AssemblyInfoInputs.cache
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\obj\Debug\net7.0\TestProjectSD.AssemblyInfo.cs
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\obj\Debug\net7.0\TestProjectSD.csproj.CoreCompileInputs.cache
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\obj\Debug\net7.0\TestProjectSD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\obj\Debug\net7.0\TestProjectSD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\obj\Debug\net7.0\staticwebassets\msbuild.TestProjectSD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\obj\Debug\net7.0\staticwebassets\msbuild.build.TestProjectSD.props
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TestProjectSD.props
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TestProjectSD.props
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\obj\Debug\net7.0\scopedcss\bundle\TestProjectSD.styles.css
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\obj\Debug\net7.0\TestProjectSD.csproj.CopyComplete
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\obj\Debug\net7.0\TestProjectSD.dll
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\obj\Debug\net7.0\refint\TestProjectSD.dll
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\obj\Debug\net7.0\TestProjectSD.pdb
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\obj\Debug\net7.0\TestProjectSD.genruntimeconfig.cache
+C:\Users\sdominsk\source\repos\TestProjectSD\TestProjectSD\obj\Debug\net7.0\ref\TestProjectSD.dll
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\obj\Debug\net7.0\TestProjectSD.csproj.AssemblyReference.cache
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\obj\Debug\net7.0\TestProjectSD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\obj\Debug\net7.0\TestProjectSD.AssemblyInfoInputs.cache
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\obj\Debug\net7.0\TestProjectSD.AssemblyInfo.cs
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\obj\Debug\net7.0\TestProjectSD.csproj.CoreCompileInputs.cache
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\obj\Debug\net7.0\TestProjectSD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\obj\Debug\net7.0\TestProjectSD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\obj\Debug\net7.0\TestProjectSD.dll
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\obj\Debug\net7.0\refint\TestProjectSD.dll
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\obj\Debug\net7.0\TestProjectSD.pdb
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\bin\Debug\net7.0\appsettings.json
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\bin\Debug\net7.0\TestProjectSD.exe
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\bin\Debug\net7.0\TestProjectSD.deps.json
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\bin\Debug\net7.0\TestProjectSD.runtimeconfig.json
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\bin\Debug\net7.0\TestProjectSD.dll
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\bin\Debug\net7.0\TestProjectSD.pdb
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\obj\Debug\net7.0\staticwebassets\msbuild.TestProjectSD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\obj\Debug\net7.0\staticwebassets\msbuild.build.TestProjectSD.props
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TestProjectSD.props
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TestProjectSD.props
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\obj\Debug\net7.0\scopedcss\bundle\TestProjectSD.styles.css
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\obj\Debug\net7.0\TestProjectSD.csproj.CopyComplete
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\obj\Debug\net7.0\TestProjectSD.genruntimeconfig.cache
+C:\Users\sdominsk\source\repos\TestProjectSD_with database\TestProjectSD\obj\Debug\net7.0\ref\TestProjectSD.dll
